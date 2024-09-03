@@ -1,0 +1,11 @@
+﻿GenderCode,(All),,,,,
+,,,,,,
+Count of FirstName,Column Labels,,,,,
+Row Labels,1000,2000,4000,5000,6000,Grand Total
+Admin Offices,1,1,45,1,,48
+Executive Office,,3,16,,,19
+IT/IS,15,22,149,27,11,224
+Production       ,92,178,493,147,104,1014
+Sales,22,58,25,38,21,164
+Software Engineering,2,4,50,7,1,64
+Grand Total,132,266,778,220,137,1533
